@@ -1,6 +1,6 @@
-# Workshops.js
+# Workshops.js MVD
 
-Te pasa que salen muchas cosas nuevas de JavaScript o su ecosistema y no tenes tiempo de estar actualizado? **Workshop.js** es para vos!!
+Te pasa que salen muchas cosas nuevas de JavaScript o su ecosistema y no tenes tiempo de actualizarte? **Workshop.js MVD** es para vos!!
 
 La idea principal de este projecto es organizar workshops para aprender algún tema nuevo. Nos juntamos y nos ponemos a codear todos juntos. 
 
@@ -8,4 +8,4 @@ Todos los workshops son organizados y dictados por miembros de las distintas com
 
 ## Workshops
 
-* <img src="https://facebook.github.io/react/img/logo.svg" height="15" width="15" /> [React](https://github.com/leoasis/workshop-pensando-en-react)
+* <img src="https://facebook.github.io/react/img/logo.svg" height="15" width="15" /> [React](https://github.com/workshopsjsmvd/react)
